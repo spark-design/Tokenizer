@@ -1,0 +1,6 @@
+checkInt 4
+checkInt t
+checkString the
+checkDouble 3.5
+checkChar r
+exit
